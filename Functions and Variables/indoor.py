@@ -6,6 +6,5 @@ def main():
 
 def lowercase(x):
     print(x.lower())
-    
-    
+
 main()
