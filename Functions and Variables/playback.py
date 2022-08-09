@@ -4,6 +4,5 @@ def main():
 
 def playback(x):
     print(x.replace(" ","..."))
-    
-    
+
 main()
