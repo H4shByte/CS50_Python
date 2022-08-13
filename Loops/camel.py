@@ -4,7 +4,7 @@ def main():
     print()
 
 
- def camelcase(word):
+def camelcase(word):
      for i in word: 
          if i.isupper():
              print("_" + i.lower(), end="")
